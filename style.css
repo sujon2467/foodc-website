@@ -1,0 +1,144 @@
+
+.navbar-nav{
+ padding-left:241px;
+}
+.hero_section{
+    background-color: #F0F4EC;
+}
+.ctg{
+  padding-bottom:60px
+}
+.btcn {
+    background-color: green;
+    height: 34px;
+    padding-top: 0px;
+    width: 91px;
+    padding-left: 15px;
+    border-radius: 56px;
+    color: #fff;
+    font-size: 20px;
+  }
+  .navbar{
+    border-bottom: 1px solid gray ;
+  }
+  .navbar-nav{
+    
+  }
+  .navbar-nav li{
+    padding-left:20px
+  }
+  .navbar-nav li a{
+    
+  }
+  .hero-content{
+
+  }
+  .hero-content img {
+    width: 167px;
+    height: 170px;
+    
+  }
+  .hero-im {
+    padding-top:30px;
+  }
+  .hero-content h4 {
+    font-family: merienda;
+    color: #396C03;
+    font-size: 35px;
+    line-height: 50.5px;
+    padding-top: -40px;
+    margin-top: -58px;
+    margin-left: 65px;
+  }
+  .hero-content p {
+    margin-left: 65px;
+    font-family: popins;
+    font-size: 17px;
+    line-height: 36px;
+
+  }
+ .hero-content .src-section{
+  margin-left: 65px;
+ }
+
+ .src-section input {
+  border-radius: 120px;
+  width: 316px;
+  position: absolute;
+  border: 1px solid #396C03;
+  padding-left: 16px;
+  font-size: 17px;
+}
+.src-section button {
+  font-size: 14px;
+  background-color: #396C03;
+  border-radius: 120px;
+  position: relative;
+  margin-left: 263px;
+  width: 100px;
+  border: none;
+  padding: 4px;
+  color: #fff;
+}
+  .hero-im img {
+    width: 384.15px;
+    height: 417px;
+    
+  }
+  
+
+.main-pk {
+  padding-top: -200px;
+  margin-top: -127px;
+  margin-left: 64px;
+}
+.pk {
+  padding-left: 327px;
+  
+  margin-top: -34px;
+}
+  .pk img {
+    width: 162px;
+    height: 175px;
+  }
+  .btc{
+    background-color: #396C03;
+    border: none;
+  }
+  
+  .ex-content{
+   
+  }
+  .ex-content h4{
+    color:#396C03;
+    font-family: merienda;
+    line-height: 130%;
+    }
+    .ex-content p{
+      font-family: poppins;
+      font-size:14px;
+      color:gray;
+    }
+  .cycle .back img {
+    width: 472px;
+    height: 263px;
+    position: absolute;
+    margin-top: -3px;
+  }
+  .back img{
+    
+  }
+.cycle{
+ padding-top:0px;
+}
+.cycle img {
+  width: 419px;
+  position: relative;
+  height: 238px;
+}
+.cycle .ck{
+  padding-left:57px;
+}
+.ck img{
+  padding-top:0px;
+}
